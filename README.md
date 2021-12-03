@@ -7,7 +7,11 @@
 </h4>
 
   <h2>este é um projeto proposto pela rafaela ballerine na imersão Dev
-       tem como objetivo ser uma locadora de filmes.</h2>
+       tem como objetivo ser uma locadora de filmes.</h2>      
+ <div aling = "center ">
+ <img src ="![PROJETO ALURAFLIX](https://user-images.githubusercontent.com/89174923/144679748-cc8f52b7-b29b-4e2d-a8d5-4345a3f80a5a.png)" width = " 700 px" />
+ </div>
+       
 <h2>Como ultilizar </h2>
 <p>   :white_check_mark: Copie o endereço da imagem do seu filme favorito</p>
 <p>   :white_check_mark: O endereço da imagem deve conter o final ".PNG"</p>
