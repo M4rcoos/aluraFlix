@@ -36,4 +36,5 @@
 <img src="https://user-images.githubusercontent.com/89174923/146658440-cab6345d-45da-4ce8-a7c6-8e291f0e464a.png" />
 </div>
 <h3 align= "center "> Ficou afim de fazer um teste nesse projetinho? Clique no link abaixo. </h3>
-[Aluraflix](https://codepen.io/m4rcoos/full/zYzJpOK)
+
+* [:clapper: Aluraflix!](https://codepen.io/m4rcoos/full/zYzJpOK)
