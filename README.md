@@ -37,4 +37,4 @@
 </div>
 <h3 align= "center "> Ficou afim de fazer um teste nesse projetinho? Clique no link abaixo. </h3>
 
-* [:clapper: Aluraflix!](https://codepen.io/m4rcoos/full/zYzJpOK)
+* [:clapper: Aluraflix!](https://suspicious-hermann-45df2e.netlify.app/)
